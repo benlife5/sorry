@@ -19,8 +19,8 @@ Ben Life ([benjaminlife5@gmail.com](mailto://benjaminlife5@gmail.com))
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
-The actual game of Sorry is copyrighted by Hasbro. 
 
-This project was intended to be education and not as a replacement for the actual game. 
+The actual game of Sorry is copyrighted by Hasbro. 
+This project was intended to be educational and not a replacement for the actual game. 
 
 App Icon made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com)
